@@ -1,0 +1,26 @@
+{
+  "name": "webapp",
+  "authors": [
+    "shoushouwindy <156catyli@sina.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "angular",
+    "js"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "requirejs": "^2.3.3",
+    "angular-ui-router": "ui-router#^0.4.2"
+  }
+}
